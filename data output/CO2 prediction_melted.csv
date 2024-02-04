@@ -1,0 +1,904 @@
+Source,Year,Line,CO2 emissions value
+Historical,1750,CO2 emissions,9305937.0
+Historical,1751,CO2 emissions,9407229.0
+Historical,1752,CO2 emissions,9505168.0
+Historical,1753,CO2 emissions,9610490.0
+Historical,1754,CO2 emissions,9733580.0
+Historical,1755,CO2 emissions,9793468.0
+Historical,1756,CO2 emissions,9909914.0
+Historical,1757,CO2 emissions,10093936.0
+Historical,1758,CO2 emissions,10216358.0
+Historical,1759,CO2 emissions,10338854.0
+Historical,1760,CO2 emissions,10514331.0
+Historical,1761,CO2 emissions,10747885.0
+Historical,1762,CO2 emissions,10952198.0
+Historical,1763,CO2 emissions,11191592.0
+Historical,1764,CO2 emissions,11396982.0
+Historical,1765,CO2 emissions,11643486.0
+Historical,1766,CO2 emissions,11876080.0
+Historical,1767,CO2 emissions,12152509.0
+Historical,1768,CO2 emissions,12466936.0
+Historical,1769,CO2 emissions,12780074.0
+Historical,1770,CO2 emissions,13097216.0
+Historical,1771,CO2 emissions,13369488.0
+Historical,1772,CO2 emissions,13623507.0
+Historical,1773,CO2 emissions,13808138.0
+Historical,1774,CO2 emissions,14012415.0
+Historical,1775,CO2 emissions,14338920.0
+Historical,1776,CO2 emissions,14654124.0
+Historical,1777,CO2 emissions,14959537.0
+Historical,1778,CO2 emissions,15243483.0
+Historical,1779,CO2 emissions,15535235.0
+Historical,1780,CO2 emissions,15878726.0
+Historical,1781,CO2 emissions,16234383.0
+Historical,1782,CO2 emissions,16580954.0
+Historical,1783,CO2 emissions,17062752.0
+Historical,1784,CO2 emissions,17471092.0
+Historical,1785,CO2 emissions,17965128.0
+Historical,1786,CO2 emissions,18447496.0
+Historical,1787,CO2 emissions,18859130.0
+Historical,1788,CO2 emissions,19286228.0
+Historical,1789,CO2 emissions,19863424.0
+Historical,1790,CO2 emissions,20398094.0
+Historical,1791,CO2 emissions,20931750.0
+Historical,1792,CO2 emissions,21929214.0
+Historical,1793,CO2 emissions,22297260.0
+Historical,1794,CO2 emissions,22519656.0
+Historical,1795,CO2 emissions,22315246.0
+Historical,1796,CO2 emissions,22121374.0
+Historical,1797,CO2 emissions,22090078.0
+Historical,1798,CO2 emissions,23105928.0
+Historical,1799,CO2 emissions,27485206.0
+Historical,1800,CO2 emissions,32798352.0
+Historical,1801,CO2 emissions,31986050.0
+Historical,1802,CO2 emissions,40310476.0
+Historical,1803,CO2 emissions,29538506.0
+Historical,1804,CO2 emissions,31769176.0
+Historical,1805,CO2 emissions,31251818.0
+Historical,1806,CO2 emissions,32704620.0
+Historical,1807,CO2 emissions,36200652.0
+Historical,1808,CO2 emissions,35497788.0
+Historical,1809,CO2 emissions,36333812.0
+Historical,1810,CO2 emissions,39492310.0
+Historical,1811,CO2 emissions,40176680.0
+Historical,1812,CO2 emissions,40814520.0
+Historical,1813,CO2 emissions,41206140.0
+Historical,1814,CO2 emissions,42226650.0
+Historical,1815,CO2 emissions,43587264.0
+Historical,1816,CO2 emissions,45496580.0
+Historical,1817,CO2 emissions,49275920.0
+Historical,1818,CO2 emissions,51392010.0
+Historical,1819,CO2 emissions,50930170.0
+Historical,1820,CO2 emissions,50733076.0
+Historical,1821,CO2 emissions,52059348.0
+Historical,1822,CO2 emissions,54021710.0
+Historical,1823,CO2 emissions,56357760.0
+Historical,1824,CO2 emissions,57583636.0
+Historical,1825,CO2 emissions,60730864.0
+Historical,1826,CO2 emissions,61382130.0
+Historical,1827,CO2 emissions,65738572.0
+Historical,1828,CO2 emissions,66681790.0
+Historical,1829,CO2 emissions,66307412.0
+Historical,1830,CO2 emissions,88988260.0
+Historical,1831,CO2 emissions,83250616.0
+Historical,1832,CO2 emissions,82091560.0
+Historical,1833,CO2 emissions,83248700.0
+Historical,1834,CO2 emissions,88763100.0
+Historical,1835,CO2 emissions,97399600.0
+Historical,1836,CO2 emissions,106894500.0
+Historical,1837,CO2 emissions,106199420.0
+Historical,1838,CO2 emissions,105845260.0
+Historical,1839,CO2 emissions,109653030.0
+Historical,1840,CO2 emissions,118808510.0
+Historical,1841,CO2 emissions,122165550.0
+Historical,1842,CO2 emissions,129388790.0
+Historical,1843,CO2 emissions,132369384.0
+Historical,1844,CO2 emissions,141942270.0
+Historical,1845,CO2 emissions,155037360.0
+Historical,1846,CO2 emissions,157656130.0
+Historical,1847,CO2 emissions,170740910.0
+Historical,1848,CO2 emissions,173579870.0
+Historical,1849,CO2 emissions,184931980.0
+Historical,1850,CO2 emissions,196751970.0
+Historical,1851,CO2 emissions,198668110.0
+Historical,1852,CO2 emissions,207414200.0
+Historical,1853,CO2 emissions,217120430.0
+Historical,1854,CO2 emissions,255033170.0
+Historical,1855,CO2 emissions,260104400.0
+Historical,1856,CO2 emissions,277296450.0
+Historical,1857,CO2 emissions,279932000.0
+Historical,1858,CO2 emissions,284225150.0
+Historical,1859,CO2 emissions,301481250.0
+Historical,1860,CO2 emissions,330962600.0
+Historical,1861,CO2 emissions,347785820.0
+Historical,1862,CO2 emissions,354488900.0
+Historical,1863,CO2 emissions,378180160.0
+Historical,1864,CO2 emissions,407725980.0
+Historical,1865,CO2 emissions,432859140.0
+Historical,1866,CO2 emissions,446553600.0
+Historical,1867,CO2 emissions,478160740.0
+Historical,1868,CO2 emissions,491551940.0
+Historical,1869,CO2 emissions,521954200.0
+Historical,1870,CO2 emissions,533338270.0
+Historical,1871,CO2 emissions,566891300.0
+Historical,1872,CO2 emissions,627301250.0
+Historical,1873,CO2 emissions,666481200.0
+Historical,1874,CO2 emissions,624232500.0
+Historical,1875,CO2 emissions,677113860.0
+Historical,1876,CO2 emissions,686780200.0
+Historical,1877,CO2 emissions,700404400.0
+Historical,1878,CO2 emissions,705973570.0
+Historical,1879,CO2 emissions,755990460.0
+Historical,1880,CO2 emissions,853916350.0
+Historical,1881,CO2 emissions,883544060.0
+Historical,1882,CO2 emissions,933360100.0
+Historical,1883,CO2 emissions,992753600.0
+Historical,1884,CO2 emissions,1004134100.0
+Historical,1885,CO2 emissions,1011637100.0
+Historical,1886,CO2 emissions,1027417500.0
+Historical,1887,CO2 emissions,1078746900.0
+Historical,1888,CO2 emissions,1194352600.0
+Historical,1889,CO2 emissions,1194624000.0
+Historical,1890,CO2 emissions,1300362400.0
+Historical,1891,CO2 emissions,1361750100.0
+Historical,1892,CO2 emissions,1372396500.0
+Historical,1893,CO2 emissions,1355477200.0
+Historical,1894,CO2 emissions,1403019100.0
+Historical,1895,CO2 emissions,1487432300.0
+Historical,1896,CO2 emissions,1536365600.0
+Historical,1897,CO2 emissions,1609231600.0
+Historical,1898,CO2 emissions,1697166300.0
+Historical,1899,CO2 emissions,1853709200.0
+Historical,1900,CO2 emissions,1952209500.0
+Historical,1901,CO2 emissions,2016744400.0
+Historical,1902,CO2 emissions,2067683800.0
+Historical,1903,CO2 emissions,2254100200.0
+Historical,1904,CO2 emissions,2279747300.0
+Historical,1905,CO2 emissions,2427318300.0
+Historical,1906,CO2 emissions,2534733000.0
+Historical,1907,CO2 emissions,2888318000.0
+Historical,1908,CO2 emissions,2776440800.0
+Historical,1909,CO2 emissions,2890495000.0
+Historical,1910,CO2 emissions,3034089700.0
+Historical,1911,CO2 emissions,3079502000.0
+Historical,1912,CO2 emissions,3235963600.0
+Historical,1913,CO2 emissions,3506275800.0
+Historical,1914,CO2 emissions,3180355600.0
+Historical,1915,CO2 emissions,3134854000.0
+Historical,1916,CO2 emissions,3385858300.0
+Historical,1917,CO2 emissions,3540426800.0
+Historical,1918,CO2 emissions,3493264100.0
+Historical,1919,CO2 emissions,3029006600.0
+Historical,1920,CO2 emissions,3521427500.0
+Historical,1921,CO2 emissions,3090096600.0
+Historical,1922,CO2 emissions,3240313900.0
+Historical,1923,CO2 emissions,3676233200.0
+Historical,1924,CO2 emissions,3687220200.0
+Historical,1925,CO2 emissions,3727033600.0
+Historical,1926,CO2 emissions,3661030400.0
+Historical,1927,CO2 emissions,3996128800.0
+Historical,1928,CO2 emissions,3978763300.0
+Historical,1929,CO2 emissions,4270907600.0
+Historical,1930,CO2 emissions,3938598400.0
+Historical,1931,CO2 emissions,3519903200.0
+Historical,1932,CO2 emissions,3173476400.0
+Historical,1933,CO2 emissions,3341518300.0
+Historical,1934,CO2 emissions,3634241800.0
+Historical,1935,CO2 emissions,3814798300.0
+Historical,1936,CO2 emissions,4185513700.0
+Historical,1937,CO2 emissions,4474233000.0
+Historical,1938,CO2 emissions,4206901000.0
+Historical,1939,CO2 emissions,4451247000.0
+Historical,1940,CO2 emissions,4861346000.0
+Historical,1941,CO2 emissions,4970814500.0
+Historical,1942,CO2 emissions,4959586000.0
+Historical,1943,CO2 emissions,5041694000.0
+Historical,1944,CO2 emissions,5117908500.0
+Historical,1945,CO2 emissions,4257136000.0
+Historical,1946,CO2 emissions,4646123500.0
+Historical,1947,CO2 emissions,5145782000.0
+Historical,1948,CO2 emissions,5424953000.0
+Historical,1949,CO2 emissions,5181006000.0
+Historical,1950,CO2 emissions,5929342000.0
+Historical,1951,CO2 emissions,6381405700.0
+Historical,1952,CO2 emissions,6467437000.0
+Historical,1953,CO2 emissions,6650861600.0
+Historical,1954,CO2 emissions,6789497300.0
+Historical,1955,CO2 emissions,7443861000.0
+Historical,1956,CO2 emissions,7925980700.0
+Historical,1957,CO2 emissions,8185614000.0
+Historical,1958,CO2 emissions,8417160000.0
+Historical,1959,CO2 emissions,8854662000.0
+Historical,1960,CO2 emissions,9386421000.0
+Historical,1961,CO2 emissions,9414383000.0
+Historical,1962,CO2 emissions,9746556000.0
+Historical,1963,CO2 emissions,10266046000.0
+Historical,1964,CO2 emissions,10823619000.0
+Historical,1965,CO2 emissions,11309690000.0
+Historical,1966,CO2 emissions,11861708000.0
+Historical,1967,CO2 emissions,12236328000.0
+Historical,1968,CO2 emissions,12904336000.0
+Historical,1969,CO2 emissions,13760840000.0
+Historical,1970,CO2 emissions,14898157000.0
+Historical,1971,CO2 emissions,15502787000.0
+Historical,1972,CO2 emissions,16223440000.0
+Historical,1973,CO2 emissions,17083500000.0
+Historical,1974,CO2 emissions,17009382000.0
+Historical,1975,CO2 emissions,17049979000.0
+Historical,1976,CO2 emissions,17985243000.0
+Historical,1977,CO2 emissions,18494652000.0
+Historical,1978,CO2 emissions,19063955000.0
+Historical,1979,CO2 emissions,19603001000.0
+Historical,1980,CO2 emissions,19482442000.0
+Historical,1981,CO2 emissions,19016950000.0
+Historical,1982,CO2 emissions,18865373000.0
+Historical,1983,CO2 emissions,18985900000.0
+Historical,1984,CO2 emissions,19641730000.0
+Historical,1985,CO2 emissions,20305132000.0
+Historical,1986,CO2 emissions,20607515000.0
+Historical,1987,CO2 emissions,21245784000.0
+Historical,1988,CO2 emissions,22077385000.0
+Historical,1989,CO2 emissions,22378970000.0
+Historical,1990,CO2 emissions,22752700000.0
+Historical,1991,CO2 emissions,23229475000.0
+Historical,1992,CO2 emissions,22567199000.0
+Historical,1993,CO2 emissions,22798350000.0
+Historical,1994,CO2 emissions,23034776000.0
+Historical,1995,CO2 emissions,23524491000.0
+Historical,1996,CO2 emissions,24250161000.0
+Historical,1997,CO2 emissions,24395952000.0
+Historical,1998,CO2 emissions,24330945000.0
+Historical,1999,CO2 emissions,24833495000.0
+Historical,2000,CO2 emissions,25501286000.0
+Historical,2001,CO2 emissions,25674930000.0
+Historical,2002,CO2 emissions,26248288000.0
+Historical,2003,CO2 emissions,27648650000.0
+Historical,2004,CO2 emissions,28620194000.0
+Historical,2005,CO2 emissions,29592103000.0
+Historical,2006,CO2 emissions,30605767000.0
+Historical,2007,CO2 emissions,31499735000.0
+Historical,2008,CO2 emissions,32041902000.0
+Historical,2009,CO2 emissions,31493265000.0
+Historical,2010,CO2 emissions,33306330000.0
+Historical,2011,CO2 emissions,34436470000.0
+Historical,2012,CO2 emissions,34935450000.0
+Historical,2013,CO2 emissions,35232470000.0
+Historical,2014,CO2 emissions,35466195000.0
+Historical,2015,CO2 emissions,35463213000.0
+Historical,2016,CO2 emissions,35460026000.0
+Historical,2017,CO2 emissions,36025455000.0
+Historical,2018,CO2 emissions,36766945000.0
+Historical,2019,CO2 emissions,37040103000.0
+Historical,2020,CO2 emissions,35007738000.0
+Historical,2021,CO2 emissions,36816544000.0
+Historical,2022,CO2 emissions,37149786000.0
+Predicted,2023,CO2 emissions,36279735321.95431
+Predicted,2024,CO2 emissions,37809711178.59573
+Predicted,2025,CO2 emissions,37764149178.2735
+Predicted,2026,CO2 emissions,37610659469.50662
+Predicted,2027,CO2 emissions,37349729513.16728
+Predicted,2028,CO2 emissions,38879705369.80492
+Predicted,2029,CO2 emissions,38834143369.47945
+Predicted,2030,CO2 emissions,38680653660.71689
+Predicted,2031,CO2 emissions,38419723704.36842
+Predicted,2032,CO2 emissions,39949699561.01219
+Predicted,2033,CO2 emissions,39904137560.69112
+Predicted,2034,CO2 emissions,39750647851.91733
+Predicted,2035,CO2 emissions,39489717895.5797
+Predicted,2036,CO2 emissions,41019693752.22304
+Predicted,2037,CO2 emissions,40974131751.90375
+Predicted,2038,CO2 emissions,40820642043.131165
+Predicted,2039,CO2 emissions,40559712086.796005
+Predicted,2040,CO2 emissions,42089687943.43295
+Predicted,2041,CO2 emissions,42044125943.10871
+Predicted,2042,CO2 emissions,41890636234.343994
+Predicted,2043,CO2 emissions,41629706277.99559
+Predicted,2044,CO2 emissions,43159682134.63881
+Predicted,2045,CO2 emissions,43114120134.31934
+Predicted,2046,CO2 emissions,42960630425.55313
+Predicted,2047,CO2 emissions,42699700469.20685
+Predicted,2048,CO2 emissions,44229676325.850174
+Predicted,2049,CO2 emissions,44184114325.531235
+Predicted,2050,CO2 emissions,44030624616.760826
+Historical,1750,CO2 emissions lower,
+Historical,1751,CO2 emissions lower,
+Historical,1752,CO2 emissions lower,
+Historical,1753,CO2 emissions lower,
+Historical,1754,CO2 emissions lower,
+Historical,1755,CO2 emissions lower,
+Historical,1756,CO2 emissions lower,
+Historical,1757,CO2 emissions lower,
+Historical,1758,CO2 emissions lower,
+Historical,1759,CO2 emissions lower,
+Historical,1760,CO2 emissions lower,
+Historical,1761,CO2 emissions lower,
+Historical,1762,CO2 emissions lower,
+Historical,1763,CO2 emissions lower,
+Historical,1764,CO2 emissions lower,
+Historical,1765,CO2 emissions lower,
+Historical,1766,CO2 emissions lower,
+Historical,1767,CO2 emissions lower,
+Historical,1768,CO2 emissions lower,
+Historical,1769,CO2 emissions lower,
+Historical,1770,CO2 emissions lower,
+Historical,1771,CO2 emissions lower,
+Historical,1772,CO2 emissions lower,
+Historical,1773,CO2 emissions lower,
+Historical,1774,CO2 emissions lower,
+Historical,1775,CO2 emissions lower,
+Historical,1776,CO2 emissions lower,
+Historical,1777,CO2 emissions lower,
+Historical,1778,CO2 emissions lower,
+Historical,1779,CO2 emissions lower,
+Historical,1780,CO2 emissions lower,
+Historical,1781,CO2 emissions lower,
+Historical,1782,CO2 emissions lower,
+Historical,1783,CO2 emissions lower,
+Historical,1784,CO2 emissions lower,
+Historical,1785,CO2 emissions lower,
+Historical,1786,CO2 emissions lower,
+Historical,1787,CO2 emissions lower,
+Historical,1788,CO2 emissions lower,
+Historical,1789,CO2 emissions lower,
+Historical,1790,CO2 emissions lower,
+Historical,1791,CO2 emissions lower,
+Historical,1792,CO2 emissions lower,
+Historical,1793,CO2 emissions lower,
+Historical,1794,CO2 emissions lower,
+Historical,1795,CO2 emissions lower,
+Historical,1796,CO2 emissions lower,
+Historical,1797,CO2 emissions lower,
+Historical,1798,CO2 emissions lower,
+Historical,1799,CO2 emissions lower,
+Historical,1800,CO2 emissions lower,
+Historical,1801,CO2 emissions lower,
+Historical,1802,CO2 emissions lower,
+Historical,1803,CO2 emissions lower,
+Historical,1804,CO2 emissions lower,
+Historical,1805,CO2 emissions lower,
+Historical,1806,CO2 emissions lower,
+Historical,1807,CO2 emissions lower,
+Historical,1808,CO2 emissions lower,
+Historical,1809,CO2 emissions lower,
+Historical,1810,CO2 emissions lower,
+Historical,1811,CO2 emissions lower,
+Historical,1812,CO2 emissions lower,
+Historical,1813,CO2 emissions lower,
+Historical,1814,CO2 emissions lower,
+Historical,1815,CO2 emissions lower,
+Historical,1816,CO2 emissions lower,
+Historical,1817,CO2 emissions lower,
+Historical,1818,CO2 emissions lower,
+Historical,1819,CO2 emissions lower,
+Historical,1820,CO2 emissions lower,
+Historical,1821,CO2 emissions lower,
+Historical,1822,CO2 emissions lower,
+Historical,1823,CO2 emissions lower,
+Historical,1824,CO2 emissions lower,
+Historical,1825,CO2 emissions lower,
+Historical,1826,CO2 emissions lower,
+Historical,1827,CO2 emissions lower,
+Historical,1828,CO2 emissions lower,
+Historical,1829,CO2 emissions lower,
+Historical,1830,CO2 emissions lower,
+Historical,1831,CO2 emissions lower,
+Historical,1832,CO2 emissions lower,
+Historical,1833,CO2 emissions lower,
+Historical,1834,CO2 emissions lower,
+Historical,1835,CO2 emissions lower,
+Historical,1836,CO2 emissions lower,
+Historical,1837,CO2 emissions lower,
+Historical,1838,CO2 emissions lower,
+Historical,1839,CO2 emissions lower,
+Historical,1840,CO2 emissions lower,
+Historical,1841,CO2 emissions lower,
+Historical,1842,CO2 emissions lower,
+Historical,1843,CO2 emissions lower,
+Historical,1844,CO2 emissions lower,
+Historical,1845,CO2 emissions lower,
+Historical,1846,CO2 emissions lower,
+Historical,1847,CO2 emissions lower,
+Historical,1848,CO2 emissions lower,
+Historical,1849,CO2 emissions lower,
+Historical,1850,CO2 emissions lower,
+Historical,1851,CO2 emissions lower,
+Historical,1852,CO2 emissions lower,
+Historical,1853,CO2 emissions lower,
+Historical,1854,CO2 emissions lower,
+Historical,1855,CO2 emissions lower,
+Historical,1856,CO2 emissions lower,
+Historical,1857,CO2 emissions lower,
+Historical,1858,CO2 emissions lower,
+Historical,1859,CO2 emissions lower,
+Historical,1860,CO2 emissions lower,
+Historical,1861,CO2 emissions lower,
+Historical,1862,CO2 emissions lower,
+Historical,1863,CO2 emissions lower,
+Historical,1864,CO2 emissions lower,
+Historical,1865,CO2 emissions lower,
+Historical,1866,CO2 emissions lower,
+Historical,1867,CO2 emissions lower,
+Historical,1868,CO2 emissions lower,
+Historical,1869,CO2 emissions lower,
+Historical,1870,CO2 emissions lower,
+Historical,1871,CO2 emissions lower,
+Historical,1872,CO2 emissions lower,
+Historical,1873,CO2 emissions lower,
+Historical,1874,CO2 emissions lower,
+Historical,1875,CO2 emissions lower,
+Historical,1876,CO2 emissions lower,
+Historical,1877,CO2 emissions lower,
+Historical,1878,CO2 emissions lower,
+Historical,1879,CO2 emissions lower,
+Historical,1880,CO2 emissions lower,
+Historical,1881,CO2 emissions lower,
+Historical,1882,CO2 emissions lower,
+Historical,1883,CO2 emissions lower,
+Historical,1884,CO2 emissions lower,
+Historical,1885,CO2 emissions lower,
+Historical,1886,CO2 emissions lower,
+Historical,1887,CO2 emissions lower,
+Historical,1888,CO2 emissions lower,
+Historical,1889,CO2 emissions lower,
+Historical,1890,CO2 emissions lower,
+Historical,1891,CO2 emissions lower,
+Historical,1892,CO2 emissions lower,
+Historical,1893,CO2 emissions lower,
+Historical,1894,CO2 emissions lower,
+Historical,1895,CO2 emissions lower,
+Historical,1896,CO2 emissions lower,
+Historical,1897,CO2 emissions lower,
+Historical,1898,CO2 emissions lower,
+Historical,1899,CO2 emissions lower,
+Historical,1900,CO2 emissions lower,
+Historical,1901,CO2 emissions lower,
+Historical,1902,CO2 emissions lower,
+Historical,1903,CO2 emissions lower,
+Historical,1904,CO2 emissions lower,
+Historical,1905,CO2 emissions lower,
+Historical,1906,CO2 emissions lower,
+Historical,1907,CO2 emissions lower,
+Historical,1908,CO2 emissions lower,
+Historical,1909,CO2 emissions lower,
+Historical,1910,CO2 emissions lower,
+Historical,1911,CO2 emissions lower,
+Historical,1912,CO2 emissions lower,
+Historical,1913,CO2 emissions lower,
+Historical,1914,CO2 emissions lower,
+Historical,1915,CO2 emissions lower,
+Historical,1916,CO2 emissions lower,
+Historical,1917,CO2 emissions lower,
+Historical,1918,CO2 emissions lower,
+Historical,1919,CO2 emissions lower,
+Historical,1920,CO2 emissions lower,
+Historical,1921,CO2 emissions lower,
+Historical,1922,CO2 emissions lower,
+Historical,1923,CO2 emissions lower,
+Historical,1924,CO2 emissions lower,
+Historical,1925,CO2 emissions lower,
+Historical,1926,CO2 emissions lower,
+Historical,1927,CO2 emissions lower,
+Historical,1928,CO2 emissions lower,
+Historical,1929,CO2 emissions lower,
+Historical,1930,CO2 emissions lower,
+Historical,1931,CO2 emissions lower,
+Historical,1932,CO2 emissions lower,
+Historical,1933,CO2 emissions lower,
+Historical,1934,CO2 emissions lower,
+Historical,1935,CO2 emissions lower,
+Historical,1936,CO2 emissions lower,
+Historical,1937,CO2 emissions lower,
+Historical,1938,CO2 emissions lower,
+Historical,1939,CO2 emissions lower,
+Historical,1940,CO2 emissions lower,
+Historical,1941,CO2 emissions lower,
+Historical,1942,CO2 emissions lower,
+Historical,1943,CO2 emissions lower,
+Historical,1944,CO2 emissions lower,
+Historical,1945,CO2 emissions lower,
+Historical,1946,CO2 emissions lower,
+Historical,1947,CO2 emissions lower,
+Historical,1948,CO2 emissions lower,
+Historical,1949,CO2 emissions lower,
+Historical,1950,CO2 emissions lower,
+Historical,1951,CO2 emissions lower,
+Historical,1952,CO2 emissions lower,
+Historical,1953,CO2 emissions lower,
+Historical,1954,CO2 emissions lower,
+Historical,1955,CO2 emissions lower,
+Historical,1956,CO2 emissions lower,
+Historical,1957,CO2 emissions lower,
+Historical,1958,CO2 emissions lower,
+Historical,1959,CO2 emissions lower,
+Historical,1960,CO2 emissions lower,
+Historical,1961,CO2 emissions lower,
+Historical,1962,CO2 emissions lower,
+Historical,1963,CO2 emissions lower,
+Historical,1964,CO2 emissions lower,
+Historical,1965,CO2 emissions lower,
+Historical,1966,CO2 emissions lower,
+Historical,1967,CO2 emissions lower,
+Historical,1968,CO2 emissions lower,
+Historical,1969,CO2 emissions lower,
+Historical,1970,CO2 emissions lower,
+Historical,1971,CO2 emissions lower,
+Historical,1972,CO2 emissions lower,
+Historical,1973,CO2 emissions lower,
+Historical,1974,CO2 emissions lower,
+Historical,1975,CO2 emissions lower,
+Historical,1976,CO2 emissions lower,
+Historical,1977,CO2 emissions lower,
+Historical,1978,CO2 emissions lower,
+Historical,1979,CO2 emissions lower,
+Historical,1980,CO2 emissions lower,
+Historical,1981,CO2 emissions lower,
+Historical,1982,CO2 emissions lower,
+Historical,1983,CO2 emissions lower,
+Historical,1984,CO2 emissions lower,
+Historical,1985,CO2 emissions lower,
+Historical,1986,CO2 emissions lower,
+Historical,1987,CO2 emissions lower,
+Historical,1988,CO2 emissions lower,
+Historical,1989,CO2 emissions lower,
+Historical,1990,CO2 emissions lower,
+Historical,1991,CO2 emissions lower,
+Historical,1992,CO2 emissions lower,
+Historical,1993,CO2 emissions lower,
+Historical,1994,CO2 emissions lower,
+Historical,1995,CO2 emissions lower,
+Historical,1996,CO2 emissions lower,
+Historical,1997,CO2 emissions lower,
+Historical,1998,CO2 emissions lower,
+Historical,1999,CO2 emissions lower,
+Historical,2000,CO2 emissions lower,
+Historical,2001,CO2 emissions lower,
+Historical,2002,CO2 emissions lower,
+Historical,2003,CO2 emissions lower,
+Historical,2004,CO2 emissions lower,
+Historical,2005,CO2 emissions lower,
+Historical,2006,CO2 emissions lower,
+Historical,2007,CO2 emissions lower,
+Historical,2008,CO2 emissions lower,
+Historical,2009,CO2 emissions lower,
+Historical,2010,CO2 emissions lower,
+Historical,2011,CO2 emissions lower,
+Historical,2012,CO2 emissions lower,
+Historical,2013,CO2 emissions lower,
+Historical,2014,CO2 emissions lower,
+Historical,2015,CO2 emissions lower,
+Historical,2016,CO2 emissions lower,
+Historical,2017,CO2 emissions lower,
+Historical,2018,CO2 emissions lower,
+Historical,2019,CO2 emissions lower,
+Historical,2020,CO2 emissions lower,
+Historical,2021,CO2 emissions lower,
+Historical,2022,CO2 emissions lower,
+Predicted,2023,CO2 emissions lower,35623334788.98984
+Predicted,2024,CO2 emissions lower,37113110955.07699
+Predicted,2025,CO2 emissions lower,37061710832.44591
+Predicted,2026,CO2 emissions lower,36900682365.236465
+Predicted,2027,CO2 emissions lower,36530521692.923706
+Predicted,2028,CO2 emissions lower,38030327982.38871
+Predicted,2029,CO2 emissions lower,37958622723.12948
+Predicted,2030,CO2 emissions lower,37683184665.10822
+Predicted,2031,CO2 emissions lower,37428876715.01647
+Predicted,2032,CO2 emissions lower,38783558844.322655
+Predicted,2033,CO2 emissions lower,38649261500.89804
+Predicted,2034,CO2 emissions lower,38442884675.13963
+Predicted,2035,CO2 emissions lower,38001306591.94376
+Predicted,2036,CO2 emissions lower,39424707331.16388
+Predicted,2037,CO2 emissions lower,39222566429.28372
+Predicted,2038,CO2 emissions lower,39057286006.9361
+Predicted,2039,CO2 emissions lower,38659655595.275566
+Predicted,2040,CO2 emissions lower,39930767347.25093
+Predicted,2041,CO2 emissions lower,39664483339.1688
+Predicted,2042,CO2 emissions lower,39424169381.884415
+Predicted,2043,CO2 emissions lower,38981105915.78862
+Predicted,2044,CO2 emissions lower,40210273016.76059
+Predicted,2045,CO2 emissions lower,40164775438.01915
+Predicted,2046,CO2 emissions lower,39735270407.53602
+Predicted,2047,CO2 emissions lower,39182102315.62432
+Predicted,2048,CO2 emissions lower,40561767917.2073
+Predicted,2049,CO2 emissions lower,40308403020.02873
+Predicted,2050,CO2 emissions lower,40046252942.65793
+Historical,1750,CO2 emissions upper,
+Historical,1751,CO2 emissions upper,
+Historical,1752,CO2 emissions upper,
+Historical,1753,CO2 emissions upper,
+Historical,1754,CO2 emissions upper,
+Historical,1755,CO2 emissions upper,
+Historical,1756,CO2 emissions upper,
+Historical,1757,CO2 emissions upper,
+Historical,1758,CO2 emissions upper,
+Historical,1759,CO2 emissions upper,
+Historical,1760,CO2 emissions upper,
+Historical,1761,CO2 emissions upper,
+Historical,1762,CO2 emissions upper,
+Historical,1763,CO2 emissions upper,
+Historical,1764,CO2 emissions upper,
+Historical,1765,CO2 emissions upper,
+Historical,1766,CO2 emissions upper,
+Historical,1767,CO2 emissions upper,
+Historical,1768,CO2 emissions upper,
+Historical,1769,CO2 emissions upper,
+Historical,1770,CO2 emissions upper,
+Historical,1771,CO2 emissions upper,
+Historical,1772,CO2 emissions upper,
+Historical,1773,CO2 emissions upper,
+Historical,1774,CO2 emissions upper,
+Historical,1775,CO2 emissions upper,
+Historical,1776,CO2 emissions upper,
+Historical,1777,CO2 emissions upper,
+Historical,1778,CO2 emissions upper,
+Historical,1779,CO2 emissions upper,
+Historical,1780,CO2 emissions upper,
+Historical,1781,CO2 emissions upper,
+Historical,1782,CO2 emissions upper,
+Historical,1783,CO2 emissions upper,
+Historical,1784,CO2 emissions upper,
+Historical,1785,CO2 emissions upper,
+Historical,1786,CO2 emissions upper,
+Historical,1787,CO2 emissions upper,
+Historical,1788,CO2 emissions upper,
+Historical,1789,CO2 emissions upper,
+Historical,1790,CO2 emissions upper,
+Historical,1791,CO2 emissions upper,
+Historical,1792,CO2 emissions upper,
+Historical,1793,CO2 emissions upper,
+Historical,1794,CO2 emissions upper,
+Historical,1795,CO2 emissions upper,
+Historical,1796,CO2 emissions upper,
+Historical,1797,CO2 emissions upper,
+Historical,1798,CO2 emissions upper,
+Historical,1799,CO2 emissions upper,
+Historical,1800,CO2 emissions upper,
+Historical,1801,CO2 emissions upper,
+Historical,1802,CO2 emissions upper,
+Historical,1803,CO2 emissions upper,
+Historical,1804,CO2 emissions upper,
+Historical,1805,CO2 emissions upper,
+Historical,1806,CO2 emissions upper,
+Historical,1807,CO2 emissions upper,
+Historical,1808,CO2 emissions upper,
+Historical,1809,CO2 emissions upper,
+Historical,1810,CO2 emissions upper,
+Historical,1811,CO2 emissions upper,
+Historical,1812,CO2 emissions upper,
+Historical,1813,CO2 emissions upper,
+Historical,1814,CO2 emissions upper,
+Historical,1815,CO2 emissions upper,
+Historical,1816,CO2 emissions upper,
+Historical,1817,CO2 emissions upper,
+Historical,1818,CO2 emissions upper,
+Historical,1819,CO2 emissions upper,
+Historical,1820,CO2 emissions upper,
+Historical,1821,CO2 emissions upper,
+Historical,1822,CO2 emissions upper,
+Historical,1823,CO2 emissions upper,
+Historical,1824,CO2 emissions upper,
+Historical,1825,CO2 emissions upper,
+Historical,1826,CO2 emissions upper,
+Historical,1827,CO2 emissions upper,
+Historical,1828,CO2 emissions upper,
+Historical,1829,CO2 emissions upper,
+Historical,1830,CO2 emissions upper,
+Historical,1831,CO2 emissions upper,
+Historical,1832,CO2 emissions upper,
+Historical,1833,CO2 emissions upper,
+Historical,1834,CO2 emissions upper,
+Historical,1835,CO2 emissions upper,
+Historical,1836,CO2 emissions upper,
+Historical,1837,CO2 emissions upper,
+Historical,1838,CO2 emissions upper,
+Historical,1839,CO2 emissions upper,
+Historical,1840,CO2 emissions upper,
+Historical,1841,CO2 emissions upper,
+Historical,1842,CO2 emissions upper,
+Historical,1843,CO2 emissions upper,
+Historical,1844,CO2 emissions upper,
+Historical,1845,CO2 emissions upper,
+Historical,1846,CO2 emissions upper,
+Historical,1847,CO2 emissions upper,
+Historical,1848,CO2 emissions upper,
+Historical,1849,CO2 emissions upper,
+Historical,1850,CO2 emissions upper,
+Historical,1851,CO2 emissions upper,
+Historical,1852,CO2 emissions upper,
+Historical,1853,CO2 emissions upper,
+Historical,1854,CO2 emissions upper,
+Historical,1855,CO2 emissions upper,
+Historical,1856,CO2 emissions upper,
+Historical,1857,CO2 emissions upper,
+Historical,1858,CO2 emissions upper,
+Historical,1859,CO2 emissions upper,
+Historical,1860,CO2 emissions upper,
+Historical,1861,CO2 emissions upper,
+Historical,1862,CO2 emissions upper,
+Historical,1863,CO2 emissions upper,
+Historical,1864,CO2 emissions upper,
+Historical,1865,CO2 emissions upper,
+Historical,1866,CO2 emissions upper,
+Historical,1867,CO2 emissions upper,
+Historical,1868,CO2 emissions upper,
+Historical,1869,CO2 emissions upper,
+Historical,1870,CO2 emissions upper,
+Historical,1871,CO2 emissions upper,
+Historical,1872,CO2 emissions upper,
+Historical,1873,CO2 emissions upper,
+Historical,1874,CO2 emissions upper,
+Historical,1875,CO2 emissions upper,
+Historical,1876,CO2 emissions upper,
+Historical,1877,CO2 emissions upper,
+Historical,1878,CO2 emissions upper,
+Historical,1879,CO2 emissions upper,
+Historical,1880,CO2 emissions upper,
+Historical,1881,CO2 emissions upper,
+Historical,1882,CO2 emissions upper,
+Historical,1883,CO2 emissions upper,
+Historical,1884,CO2 emissions upper,
+Historical,1885,CO2 emissions upper,
+Historical,1886,CO2 emissions upper,
+Historical,1887,CO2 emissions upper,
+Historical,1888,CO2 emissions upper,
+Historical,1889,CO2 emissions upper,
+Historical,1890,CO2 emissions upper,
+Historical,1891,CO2 emissions upper,
+Historical,1892,CO2 emissions upper,
+Historical,1893,CO2 emissions upper,
+Historical,1894,CO2 emissions upper,
+Historical,1895,CO2 emissions upper,
+Historical,1896,CO2 emissions upper,
+Historical,1897,CO2 emissions upper,
+Historical,1898,CO2 emissions upper,
+Historical,1899,CO2 emissions upper,
+Historical,1900,CO2 emissions upper,
+Historical,1901,CO2 emissions upper,
+Historical,1902,CO2 emissions upper,
+Historical,1903,CO2 emissions upper,
+Historical,1904,CO2 emissions upper,
+Historical,1905,CO2 emissions upper,
+Historical,1906,CO2 emissions upper,
+Historical,1907,CO2 emissions upper,
+Historical,1908,CO2 emissions upper,
+Historical,1909,CO2 emissions upper,
+Historical,1910,CO2 emissions upper,
+Historical,1911,CO2 emissions upper,
+Historical,1912,CO2 emissions upper,
+Historical,1913,CO2 emissions upper,
+Historical,1914,CO2 emissions upper,
+Historical,1915,CO2 emissions upper,
+Historical,1916,CO2 emissions upper,
+Historical,1917,CO2 emissions upper,
+Historical,1918,CO2 emissions upper,
+Historical,1919,CO2 emissions upper,
+Historical,1920,CO2 emissions upper,
+Historical,1921,CO2 emissions upper,
+Historical,1922,CO2 emissions upper,
+Historical,1923,CO2 emissions upper,
+Historical,1924,CO2 emissions upper,
+Historical,1925,CO2 emissions upper,
+Historical,1926,CO2 emissions upper,
+Historical,1927,CO2 emissions upper,
+Historical,1928,CO2 emissions upper,
+Historical,1929,CO2 emissions upper,
+Historical,1930,CO2 emissions upper,
+Historical,1931,CO2 emissions upper,
+Historical,1932,CO2 emissions upper,
+Historical,1933,CO2 emissions upper,
+Historical,1934,CO2 emissions upper,
+Historical,1935,CO2 emissions upper,
+Historical,1936,CO2 emissions upper,
+Historical,1937,CO2 emissions upper,
+Historical,1938,CO2 emissions upper,
+Historical,1939,CO2 emissions upper,
+Historical,1940,CO2 emissions upper,
+Historical,1941,CO2 emissions upper,
+Historical,1942,CO2 emissions upper,
+Historical,1943,CO2 emissions upper,
+Historical,1944,CO2 emissions upper,
+Historical,1945,CO2 emissions upper,
+Historical,1946,CO2 emissions upper,
+Historical,1947,CO2 emissions upper,
+Historical,1948,CO2 emissions upper,
+Historical,1949,CO2 emissions upper,
+Historical,1950,CO2 emissions upper,
+Historical,1951,CO2 emissions upper,
+Historical,1952,CO2 emissions upper,
+Historical,1953,CO2 emissions upper,
+Historical,1954,CO2 emissions upper,
+Historical,1955,CO2 emissions upper,
+Historical,1956,CO2 emissions upper,
+Historical,1957,CO2 emissions upper,
+Historical,1958,CO2 emissions upper,
+Historical,1959,CO2 emissions upper,
+Historical,1960,CO2 emissions upper,
+Historical,1961,CO2 emissions upper,
+Historical,1962,CO2 emissions upper,
+Historical,1963,CO2 emissions upper,
+Historical,1964,CO2 emissions upper,
+Historical,1965,CO2 emissions upper,
+Historical,1966,CO2 emissions upper,
+Historical,1967,CO2 emissions upper,
+Historical,1968,CO2 emissions upper,
+Historical,1969,CO2 emissions upper,
+Historical,1970,CO2 emissions upper,
+Historical,1971,CO2 emissions upper,
+Historical,1972,CO2 emissions upper,
+Historical,1973,CO2 emissions upper,
+Historical,1974,CO2 emissions upper,
+Historical,1975,CO2 emissions upper,
+Historical,1976,CO2 emissions upper,
+Historical,1977,CO2 emissions upper,
+Historical,1978,CO2 emissions upper,
+Historical,1979,CO2 emissions upper,
+Historical,1980,CO2 emissions upper,
+Historical,1981,CO2 emissions upper,
+Historical,1982,CO2 emissions upper,
+Historical,1983,CO2 emissions upper,
+Historical,1984,CO2 emissions upper,
+Historical,1985,CO2 emissions upper,
+Historical,1986,CO2 emissions upper,
+Historical,1987,CO2 emissions upper,
+Historical,1988,CO2 emissions upper,
+Historical,1989,CO2 emissions upper,
+Historical,1990,CO2 emissions upper,
+Historical,1991,CO2 emissions upper,
+Historical,1992,CO2 emissions upper,
+Historical,1993,CO2 emissions upper,
+Historical,1994,CO2 emissions upper,
+Historical,1995,CO2 emissions upper,
+Historical,1996,CO2 emissions upper,
+Historical,1997,CO2 emissions upper,
+Historical,1998,CO2 emissions upper,
+Historical,1999,CO2 emissions upper,
+Historical,2000,CO2 emissions upper,
+Historical,2001,CO2 emissions upper,
+Historical,2002,CO2 emissions upper,
+Historical,2003,CO2 emissions upper,
+Historical,2004,CO2 emissions upper,
+Historical,2005,CO2 emissions upper,
+Historical,2006,CO2 emissions upper,
+Historical,2007,CO2 emissions upper,
+Historical,2008,CO2 emissions upper,
+Historical,2009,CO2 emissions upper,
+Historical,2010,CO2 emissions upper,
+Historical,2011,CO2 emissions upper,
+Historical,2012,CO2 emissions upper,
+Historical,2013,CO2 emissions upper,
+Historical,2014,CO2 emissions upper,
+Historical,2015,CO2 emissions upper,
+Historical,2016,CO2 emissions upper,
+Historical,2017,CO2 emissions upper,
+Historical,2018,CO2 emissions upper,
+Historical,2019,CO2 emissions upper,
+Historical,2020,CO2 emissions upper,
+Historical,2021,CO2 emissions upper,
+Historical,2022,CO2 emissions upper,
+Predicted,2023,CO2 emissions upper,36938794545.33346
+Predicted,2024,CO2 emissions upper,38458572585.89807
+Predicted,2025,CO2 emissions upper,38489290242.731415
+Predicted,2026,CO2 emissions upper,38369790216.56407
+Predicted,2027,CO2 emissions upper,38146540649.13519
+Predicted,2028,CO2 emissions upper,39731144902.29006
+Predicted,2029,CO2 emissions upper,39753584374.666626
+Predicted,2030,CO2 emissions upper,39622553540.19707
+Predicted,2031,CO2 emissions upper,39483702958.30544
+Predicted,2032,CO2 emissions upper,41141303801.91516
+Predicted,2033,CO2 emissions upper,41115058235.14934
+Predicted,2034,CO2 emissions upper,41134033669.11705
+Predicted,2035,CO2 emissions upper,40987396288.56787
+Predicted,2036,CO2 emissions upper,42662841093.38185
+Predicted,2037,CO2 emissions upper,42804385670.820076
+Predicted,2038,CO2 emissions upper,42864788603.63862
+Predicted,2039,CO2 emissions upper,42679824851.18289
+Predicted,2040,CO2 emissions upper,44381894562.445755
+Predicted,2041,CO2 emissions upper,44577940182.481636
+Predicted,2042,CO2 emissions upper,44567177485.96327
+Predicted,2043,CO2 emissions upper,44433013232.98079
+Predicted,2044,CO2 emissions upper,46147366438.67919
+Predicted,2045,CO2 emissions upper,46255887331.643486
+Predicted,2046,CO2 emissions upper,46390631965.424355
+Predicted,2047,CO2 emissions upper,46200925310.17624
+Predicted,2048,CO2 emissions upper,47979544198.437195
+Predicted,2049,CO2 emissions upper,48121313955.86409
+Predicted,2050,CO2 emissions upper,48096653528.31406
